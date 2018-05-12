@@ -1,0 +1,30 @@
+_repo: Saj-v-lgyi-eredeti-n-pmes-k--2.-k-tet-_38568
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merényi, László
+    alias: Merenyi, Laszlo
+    birthdate: 1837
+    deathdate: 1907
+    gutenberg_agent_id: '39531'
+    url: http://www.gutenberg.org/2009/agents/39531
+    wikipedia: http://hu.wikipedia.org/wiki/Mer%C3%A9nyi_L%C3%A1szl%C3%B3
+description: ''
+gutenberg_issued: '2012-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38568'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Hungary'
+- !lcc 'GR'
+tableOfContents: Szép Miklós -- A három kalmárfi -- A kilencz -- A szegény ember és
+  a varjak királya -- A keresztleány -- Brúgó, az ördög -- Tilinkó.
+title: Sajóvölgyi eredeti népmesék (2. kötet)
+url: http://www.gutenberg.org/ebooks/38568
