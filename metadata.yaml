@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39531
     wikipedia: http://hu.wikipedia.org/wiki/Mer%C3%A9nyi_L%C3%A1szl%C3%B3
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38568#Saj-v-lgyi-eredeti-n-pmes-k--2.-k-tet-
 gutenberg_issued: '2012-01-13'
 gutenberg_type: Text
 identifiers:
